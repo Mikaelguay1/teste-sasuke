@@ -48,6 +48,7 @@ const welkom = JSON.parse(fs.readFileSync('./src/welkom.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 /*const { xp } = require('./database/menu/xp')
 const { limit } = require('./database/menu/limit*/
+const {antifake} = require('./database/json/antifake.json')
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
@@ -71,6 +72,7 @@ const antilink = JSON.parse(fs.readFileSync('./database/json/antilink.json'))
 const event = JSON.parse(fs.readFileSync('./database/json/event.json'))
 const _level = JSON.parse(fs.readFileSync('./database/user/level.json'))
 const _limit = JSON.parse(fs.readFileSync('./database/json/limit.json'))
+const antifake = JSON.parse(fs.readFileSync('./database/json/antifake.json'))
 /*********** END LOAD ***********/
 
 /********** FUNCTION ***************/

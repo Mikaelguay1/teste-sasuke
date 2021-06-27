@@ -9,7 +9,7 @@
 ## Clone esse projeto
 
 ```bash
-> git clone https://github.com/Mikaelguay1/teste-sasuke.git
+> git clone https://github.com/Mikaelguay1/saske.git
 ```
 
 ## Instale o BOT:
@@ -20,7 +20,7 @@
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
-> git clone https://github.com/Mikaelguay1/teste-sasuke.git
+> git clone https://github.com/Mikaelguay1/saske.git
 > cd teste-sasuke
 > bash install.sh
 ```

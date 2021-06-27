@@ -37,6 +37,7 @@ ____██_____██
 ║
 ╠══🐰〘 OUTROS 〙🐰══
 ║
+║🐊 *${prefix}antifake [on/off]
 ║🐊 *${prefix}linkgp*
 ║🐊 *${prefix}simih [1/0]*
 ║🐊 *${prefix}marcar*
